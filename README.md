@@ -25,7 +25,7 @@ I am islam bey zekkoub, a data scientist passionate about data analysis and buil
 
 ## 📫 Contact Me
 <p align="left">
-<a href="https://twitter.com/https://x.com/izekkoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/izekkoub" height="30" width="40" /></a>
+<a href="https://x.com/izekkoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/izekkoub" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/islam-bey-zekkoub-a13a34211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/islam-bey-zekkoub-a13a34211" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/islambey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/islambey" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/https://web.facebook.com/beyislem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/https://web.facebook.com/beyislem/" height="30" width="40" /></a>
