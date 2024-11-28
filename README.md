@@ -15,7 +15,7 @@ I am islam bey zekkoub, a data scientist passionate about data analysis and buil
 ### 📊 [Music Genre Classification](https://github.com/your-repo-name)
 - Built a dashboard using Plotly and Dash to visualize e-commerce data interactively.
 
-### 🔍 [Diamond Price Prediction](https://github.com/your-repo-name)
+### 🔍 [Diamond Price Prediction](https://github.com/islam-bey-zekkoub/Diamond-Price-Prediction/tree/master))
 - Performed sales data analysis to uncover monthly trends and identify top-performing products.
 - **Tools Used:** Python, Pandas, Matplotlib.
 
