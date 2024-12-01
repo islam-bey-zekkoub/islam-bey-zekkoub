@@ -1,8 +1,8 @@
-
-
 ## 👋 About Me
 I am islam bey zekkoub, a data scientist passionate about data analysis and building machine learning models. I specialize in handling large datasets and creating solutions that empower businesses to make data-driven decisions.
-
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+</br>
 ## 💻 Projects
 ### 🔍 [Movie review Sentiment Analysis](https://github.com/islam-bey-zekkoub/Movie-review-Sentiment-Analysis)
 - Performed sales data analysis to uncover monthly trends and identify top-performing products.
@@ -22,7 +22,7 @@ I am islam bey zekkoub, a data scientist passionate about data analysis and buil
 ## 🌱 Currently Learning
 - Enhancing models with neural networks.
 - Automating workflows with Apache Airflow.
-
+  
 ## 📫 Contact Me
 <p align="left">
 <a href = "mailto: islam.beyzekkoub@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
