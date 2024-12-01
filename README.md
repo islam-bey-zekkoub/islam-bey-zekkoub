@@ -1,5 +1,8 @@
+<h1 align="center">Hi 👋, I'm Islam bey zekkoub </h1>
+<h3 align="center">Data scientist </h3>
+
 ## 👋 About Me
-I am islam bey zekkoub, a data scientist passionate about data analysis and building machine learning models. I specialize in handling large datasets and creating solutions that empower businesses to make data-driven decisions.
+I am passionate about data analysis and building machine learning models. I specialize in handling large datasets and creating solutions that empower businesses to make data-driven decisions.
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 </br>
