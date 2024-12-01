@@ -25,6 +25,7 @@ I am islam bey zekkoub, a data scientist passionate about data analysis and buil
 
 ## 📫 Contact Me
 <p align="left">
+<a href = "mailto: islam.beyzekkoub@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 <a href="https://x.com/izekkoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/izekkoub" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/islam-bey-zekkoub-a13a34211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/islam-bey-zekkoub-a13a34211" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/islambey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/islambey" height="30" width="40" /></a>
