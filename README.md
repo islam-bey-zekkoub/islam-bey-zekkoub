@@ -41,7 +41,7 @@ I am passionate about data analysis and building machine learning models. I spec
 
 ## 🌱 Currently Learning
 - Enhancing models with neural networks.
-- Automating workflows with Apache Airflow.
+- .
   
 ## 📫 Contact Me
 <p align="left">
