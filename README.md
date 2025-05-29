@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm Islam bey zekkoub </h1>
-<h3 align="center">Data scientist </h3>
+<h3 align="center"> Data Scientist & Analyst </h3>
 
 ## 👋 About Me
-I am passionate about data analysis and building machine learning models. I specialize in handling large datasets and creating solutions that empower businesses to make data-driven decisions.
+I am passionate
+I am passionate and detail-oriented Data Scientist with strong expertise in machine learning, deep learning, and data analysis. I hold a Master’s in physics, and I enjoy solving real-world problems by leveraging AI and data-driven approaches.
+
+I’ve built and deployed several end-to-end machine learning projects, including sentiment analysis, image classification, and predictive modeling, using tools like Python, Scikit-learn, TensorFlow, Keras, and Flask.
+
+My interests lie particularly in Natural Language Processing, Computer Vision, and AI-powered automation. I’m always eager to learn new technologies and contribute to innovative solutions that make a positive impact.
+
+Currently, I’m looking for exciting opportunities where I can apply my skills, grow professionally, and help organizations make smarter decisions with data.
+
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
