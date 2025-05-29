@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Islam bey zekkoub </h1>
 <h3 align="center"> Data Scientist & Analyst </h3>
-<img src="images/profile.jpg.JPG" alt="My Photo" style="width:200px; border-radius:50%;">
+
 ## 👋 About Me
 I am passionate
 I am passionate and detail-oriented Data Scientist with strong expertise in machine learning, deep learning, and data analysis. I hold a Master’s in physics, and I enjoy solving real-world problems by leveraging AI and data-driven approaches.
