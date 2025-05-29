@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Islam bey zekkoub </h1>
 <h3 align="center"> Data Scientist & Analyst </h3>
-<img src="images/profile.jpg" alt="My Photo" style="width:200px; border-radius:50%;">
+<img src="images/profile.JPG" alt="My Photo" style="width:200px; border-radius:50%;">
 
 ## 👋 About Me
 I am passionate
