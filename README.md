@@ -10,7 +10,6 @@ I’ve built and deployed several end-to-end machine learning projects, includin
 My interests lie particularly in Natural Language Processing, Computer Vision, and AI-powered automation. I’m always eager to learn new technologies and contribute to innovative solutions that make a positive impact.
 
 Currently, I’m looking for exciting opportunities where I can apply my skills, grow professionally, and help organizations make smarter decisions with data.
-
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
